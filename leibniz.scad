@@ -68,7 +68,7 @@ rotate([0, 90, 0]) leibniz_adder(
 //    input_val=5, out_val=3, stepper_drum_angle=180);
 //    input_val=5, out_val=8, stepper_drum_angle=285);
 //    input_val=5, out_val=8, stepper_drum_angle=360);
-//    input_val=0, out_val=0, stepper_drum_angle=0);
+//    input_val=0, out_val=8, stepper_drum_angle=0);
 
 ////////////////////////////////////////////////////////////
 // колесо с цифрами разряда - результат сложения
