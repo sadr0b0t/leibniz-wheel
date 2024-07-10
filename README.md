@@ -11,6 +11,7 @@ https://en.wikipedia.org/wiki/Leibniz_wheel
 
 Использует генератор шестеренок: https://github.com/sadr0b0t/pd-gears
 
+в динамике: https://www.youtube.com/watch?v=0vDZeWDjX9U
 
 [<img src="doc/screens/leibniz-01.png" width=600>](doc/screens/leibniz-00.png)
 [<img src="doc/screens/leibniz-03.png" width=600>](doc/screens/leibniz-03.png)
